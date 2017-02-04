@@ -29,5 +29,5 @@ Learning bootstrap and jQuery
 1. We'll use github pages to serve the app
 1. We'll see if it looks good on cell phones
 
-![example part one solution][part1.gif]
+![example part one solution](part1.gif)
 
